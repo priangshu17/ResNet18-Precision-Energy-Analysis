@@ -26,9 +26,3 @@ We analyze the ResNet18 model implemented with the following three precisions:
 
 If you use the code or findings from this research project in your own work, please consider citing this repository.
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
-
-
